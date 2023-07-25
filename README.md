@@ -22,6 +22,7 @@ ProClientMap runs on Jupyter Notebook, a web-based interactive computational env
 - folium
 - ipywidgets
 - pickle
+- API Key
 
 ### Running ProClientMap
 
